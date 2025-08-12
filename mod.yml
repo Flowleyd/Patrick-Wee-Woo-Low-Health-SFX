@@ -1,0 +1,9 @@
+title: Patrick Low Health SFX
+originalAuthor: Flowleyd
+description: Enhances the Low Health SFX
+
+assets:
+- name: se\se000.win32.scd
+  method: copy
+  source:
+  - name: WEEWOO.scd
